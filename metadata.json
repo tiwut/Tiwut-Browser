@@ -1,0 +1,6 @@
+{
+  "name": "Tiwut Browser",
+  "description": "A secure, fast, and feature-rich internet browser with website isolation and glassy UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
